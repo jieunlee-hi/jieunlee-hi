@@ -1,10 +1,12 @@
-### Hi there 👋
+## JIEUN 👋
+### DATA SCIENTIST IN PROGRESS
+
 
 <!--
 **jieunlee-hi/jieunlee-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I am currently learning  bigdata, python, sql, R, and so on.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
